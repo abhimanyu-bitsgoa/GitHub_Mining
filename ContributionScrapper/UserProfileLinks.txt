@@ -225,7 +225,7 @@ https://github.com/be5invis
 https://github.com/grp
 https://github.com/mjhea0
 https://github.com/ammeep
-https://github.com/kartik
+https://github.com/kartik-v
 https://github.com/SamSaffron
 https://github.com/weavejester
 https://github.com/cyanogen
@@ -236,7 +236,7 @@ https://github.com/cheeaun
 https://github.com/sebastianbergmann
 https://github.com/addyosmani
 https://github.com/rasbt
-https://github.com/azat
+https://github.com/azat-co
 https://github.com/davidfowl
 https://github.com/fnando
 https://github.com/macournoyer
