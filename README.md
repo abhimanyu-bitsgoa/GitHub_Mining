@@ -1,2 +1,2 @@
 # GitHub_Mining
-A powerful to mine GitHub and draw insights.
+A powerful tool to mine GitHub and draw insights.
